@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Questions",
+            "connectString": "postgres://sgsetatq:Zomm68yBkJvOqK6oGsPQPc8CO4y8ztF4@salt.db.elephantsql.com/sgsetatq"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "DVD Homework 1",
+            "connectString": "postgres://gjxbpnin:AM8MFPTbyYzaUaHTxkZ_kIXGNXfkWGVy@salt.db.elephantsql.com/gjxbpnin"
+        }
+    ]
+}
